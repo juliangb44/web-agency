@@ -2082,7 +2082,7 @@
    }
    
    body {
-     background-color: #12141d;
+     background-color: #000000;
      font-family: Gantari, sans-serif;
      color: #fff;
      font-size: 14px;
@@ -2308,7 +2308,7 @@
    .section {
      position: relative;
      padding: 100px 5%;
-     background-color: #12141d;
+     background-color: #000000;
    }
    
    .section._1 {
